@@ -1,3 +1,8 @@
+node_modules/
+dist/
+*.js.map
+coverage/
+.jest-cache/
 # OSX
 #
 .DS_Store
